@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+My POrtfolio designed by using html css bootstrap and javascript
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Poertfolio website
